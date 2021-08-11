@@ -1,0 +1,7 @@
+C:\Users\Jacob\OneDrive\Documents-Synced\2021-OD\Minutes for Miles\Vocab Tester\IPA to Phonetics\IPAtoPhonetics\IPAtoPhonetics\obj\Debug\IPAtoPhonetics.csprojAssemblyReference.cache
+C:\Users\Jacob\OneDrive\Documents-Synced\2021-OD\Minutes for Miles\Vocab Tester\IPA to Phonetics\IPAtoPhonetics\IPAtoPhonetics\obj\Debug\IPAtoPhonetics.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\OneDrive\Documents-Synced\2021-OD\Minutes for Miles\Vocab Tester\IPA to Phonetics\IPAtoPhonetics\IPAtoPhonetics\bin\Debug\IPAtoPhonetics.exe.config
+C:\Users\Jacob\OneDrive\Documents-Synced\2021-OD\Minutes for Miles\Vocab Tester\IPA to Phonetics\IPAtoPhonetics\IPAtoPhonetics\bin\Debug\IPAtoPhonetics.exe
+C:\Users\Jacob\OneDrive\Documents-Synced\2021-OD\Minutes for Miles\Vocab Tester\IPA to Phonetics\IPAtoPhonetics\IPAtoPhonetics\bin\Debug\IPAtoPhonetics.pdb
+C:\Users\Jacob\OneDrive\Documents-Synced\2021-OD\Minutes for Miles\Vocab Tester\IPA to Phonetics\IPAtoPhonetics\IPAtoPhonetics\obj\Debug\IPAtoPhonetics.exe
+C:\Users\Jacob\OneDrive\Documents-Synced\2021-OD\Minutes for Miles\Vocab Tester\IPA to Phonetics\IPAtoPhonetics\IPAtoPhonetics\obj\Debug\IPAtoPhonetics.pdb
